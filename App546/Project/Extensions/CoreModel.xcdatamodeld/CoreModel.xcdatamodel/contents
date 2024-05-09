@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22757" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="ClassModel" representedClassName="ClassModel" syncable="YES" codeGenerationType="class">
+        <attribute name="clColor" optional="YES" attributeType="String"/>
+        <attribute name="clDayWeek" optional="YES" attributeType="String"/>
+        <attribute name="clDirection" optional="YES" attributeType="String"/>
+        <attribute name="clEndTime" optional="YES" attributeType="String"/>
+        <attribute name="clJumVenue" optional="YES" attributeType="String"/>
+        <attribute name="clName" optional="YES" attributeType="String"/>
+        <attribute name="clPrice" optional="YES" attributeType="String"/>
+        <attribute name="clStartTime" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MembersModel" representedClassName="MembersModel" syncable="YES" codeGenerationType="class">
+        <attribute name="memDirections" optional="YES" attributeType="String"/>
+        <attribute name="memName" optional="YES" attributeType="String"/>
+        <attribute name="memNumber" optional="YES" attributeType="String"/>
+    </entity>
+</model>
